@@ -1,0 +1,64 @@
+﻿  gameplay.cpp
+D:\My_programmes\Project\Project1\player.h(33,90): warning C4305:  инициализация: усечение из "double" в "_Ty"
+D:\My_programmes\Project\Project1\player.h(33,90): warning C4305:         with
+D:\My_programmes\Project\Project1\player.h(33,90): warning C4305:         [
+D:\My_programmes\Project\Project1\player.h(33,90): warning C4305:             _Ty=float
+D:\My_programmes\Project\Project1\player.h(33,90): warning C4305:         ]
+D:\My_programmes\Project\Project1\player.h(45,1): warning C4305:  =: усечение из "double" в "float"
+D:\My_programmes\Project\Project1\player.h(59,12): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(68,1): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(118,1): warning C4244:  -=: преобразование "double" в "float", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(133,14): warning C4244:  инициализация: преобразование "T" в "int", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(133,14): warning C4244:         with
+D:\My_programmes\Project\Project1\player.h(133,14): warning C4244:         [
+D:\My_programmes\Project\Project1\player.h(133,14): warning C4244:             T=float
+D:\My_programmes\Project\Project1\player.h(133,14): warning C4244:         ]
+D:\My_programmes\Project\Project1\player.h(134,15): warning C4244:  инициализация: преобразование "T" в "int", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(134,15): warning C4244:         with
+D:\My_programmes\Project\Project1\player.h(134,15): warning C4244:         [
+D:\My_programmes\Project\Project1\player.h(134,15): warning C4244:             T=float
+D:\My_programmes\Project\Project1\player.h(134,15): warning C4244:         ]
+D:\My_programmes\Project\Project1\player.h(148,54): warning C4244:  =: преобразование "int" в "T", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(148,54): warning C4244:         with
+D:\My_programmes\Project\Project1\player.h(148,54): warning C4244:         [
+D:\My_programmes\Project\Project1\player.h(148,54): warning C4244:             T=float
+D:\My_programmes\Project\Project1\player.h(148,54): warning C4244:         ]
+D:\My_programmes\Project\Project1\player.h(162,14): warning C4244:  инициализация: преобразование "T" в "int", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(162,14): warning C4244:         with
+D:\My_programmes\Project\Project1\player.h(162,14): warning C4244:         [
+D:\My_programmes\Project\Project1\player.h(162,14): warning C4244:             T=float
+D:\My_programmes\Project\Project1\player.h(162,14): warning C4244:         ]
+D:\My_programmes\Project\Project1\player.h(163,15): warning C4244:  инициализация: преобразование "T" в "int", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(163,15): warning C4244:         with
+D:\My_programmes\Project\Project1\player.h(163,15): warning C4244:         [
+D:\My_programmes\Project\Project1\player.h(163,15): warning C4244:             T=float
+D:\My_programmes\Project\Project1\player.h(163,15): warning C4244:         ]
+D:\My_programmes\Project\Project1\player.h(180,1): warning C4244:  +=: преобразование "double" в "_Ty", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(180,1): warning C4244:         with
+D:\My_programmes\Project\Project1\player.h(180,1): warning C4244:         [
+D:\My_programmes\Project\Project1\player.h(180,1): warning C4244:             _Ty=float
+D:\My_programmes\Project\Project1\player.h(180,1): warning C4244:         ]
+D:\My_programmes\Project\Project1\player.h(205,74): warning C4244:  аргумент: преобразование "double" в "_Ty", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(205,74): warning C4244:         with
+D:\My_programmes\Project\Project1\player.h(205,74): warning C4244:         [
+D:\My_programmes\Project\Project1\player.h(205,74): warning C4244:             _Ty=float
+D:\My_programmes\Project\Project1\player.h(205,74): warning C4244:         ]
+D:\My_programmes\Project\Project1\player.h(206,72): warning C4244:  аргумент: преобразование "double" в "_Ty", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(206,72): warning C4244:         with
+D:\My_programmes\Project\Project1\player.h(206,72): warning C4244:         [
+D:\My_programmes\Project\Project1\player.h(206,72): warning C4244:             _Ty=float
+D:\My_programmes\Project\Project1\player.h(206,72): warning C4244:         ]
+D:\My_programmes\Project\Project1\player.h(214,1): warning C4244:  +=: преобразование "double" в "_Ty", возможна потеря данных
+D:\My_programmes\Project\Project1\player.h(214,1): warning C4244:         with
+D:\My_programmes\Project\Project1\player.h(214,1): warning C4244:         [
+D:\My_programmes\Project\Project1\player.h(214,1): warning C4244:             _Ty=float
+D:\My_programmes\Project\Project1\player.h(214,1): warning C4244:         ]
+D:\My_programmes\Project\Project1\gameplay.cpp(48,14): warning C4244:  инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+D:\My_programmes\Project\Project1\gameplay.cpp(74,16): warning C4305:  =: усечение из "double" в "float"
+D:\My_programmes\Project\Project1\gameplay.cpp(81,15): warning C4305:  =: усечение из "double" в "float"
+D:\My_programmes\Project\Project1\gameplay.cpp(87,33): warning C4305:  =: усечение из "double" в "float"
+  main.cpp
+  Создание кода...
+D:\My_programmes\Project\Project1\gameplay.cpp(142,56): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+D:\My_programmes\Project\Project1\main.cpp(188): warning C4715:  pause_menu: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> D:\My_programmes\Project\x64\Debug\Project1.exe
